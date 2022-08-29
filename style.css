@@ -1,17 +1,27 @@
 body{
-    background-color: blueviolet; 
-    text-align: justify; 
-    font-size: 60px;(223,185,216);
-    color: rgb
+    background-color: blueviolet;   
+    }
+    h1{
+      color:rgb(0, 255, 221); text-align: justify;
+     }
+     # banner {
+      width: 100%;
+    p {
+      text-align: left;
+      color:rgb(0, 255, 221); text-align: justify;
+      
        } 
-       h1{
-        color:blue; text-align: center;
+       #texto1 {
+         font-size: 60px;(223,185,216);
+         color: rgb
+
        }
-      h2 {color:aqua; text-align: right;
+       
+      h2 {color:aqua; text-align: left;
         p{
             text-align: 45px; 
         }
-#Alura1 {
+#image1 {
     border: left 5px solid red;
     width: 200px
     height:200px;
@@ -26,7 +36,7 @@ body{
  #scratch1{
 
  }
- .tens{
+ itens{
     blackground- color: black;
  }
  li: marker{
